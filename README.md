@@ -1,4 +1,4 @@
-# <summary><strong>Hi there :wave: , I'm Bintang Gilangkasa Syailendra</strong></summary>
+# <summary><strong>Hi there :wave: , I'm Angkasa</strong></summary>
 Hidup yang tidak dipertaruhkan, tidak akan pernah dimenangkan. </br>
 -Sutan Syahrir-
 
@@ -22,4 +22,10 @@ Hidup yang tidak dipertaruhkan, tidak akan pernah dimenangkan. </br>
 </a>
 <a href="https://angkasaasemestaa.blogspot.com/">
   <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
+</a>
+<a href="https://www.spotify.com/angkasaa/">
+  <img align="left" alt="Goo's Spotify" width="20px" src="https://simpleicons.now.sh/spotify/495f7e" />
+</a>
+<a href="https://www.discord.com/angkasaa_./">
+  <img align="left" alt="Goo's Discord" width="20px" src="https://simpleicons.now.sh/discord/495f7e" />
 </a>
