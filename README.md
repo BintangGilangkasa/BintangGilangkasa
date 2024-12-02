@@ -1,5 +1,5 @@
 # <summary><strong>Hi there :wave: , I'm Goo!</strong></summary>
-Hidup yang tidak dipertaruhkan, tidak akan pernah dimenangkan.
+Hidup yang tidak dipertaruhkan, tidak akan pernah dimenangkan. </br>
 -Sutan Syahrir-
 
 ### <summary><strong>Tools:</strong></summary>
