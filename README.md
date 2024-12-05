@@ -6,15 +6,6 @@ Hidup yang tidak dipertaruhkan, tidak akan pernah dimenangkan. </br>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </p>
-
-### <summary><strong>About Me!</strong></summary>
-<p>
-    - :keyboard: I’m currently learning Data Science. </br>
-    - :speech_balloon: Ask me about anything. </br>
-    - :mailbox: How to reach me: <a href="mailto:bintanggilangkasaa@gmail.com">Email me!</a> </br>
-    - :cloud: Pronouns: He/Him. </br>
-    - :game_die: Gaming and Coding are part of me. </br>
-<p>
  
 ### <summary><strong>Let's Connect!</strong></summary>
 <a href="https://www.instagram.com/bintanggilangkasaa/">
