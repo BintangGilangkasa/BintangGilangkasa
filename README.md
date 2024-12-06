@@ -1,6 +1,6 @@
 # <summary><strong>Hi there :wave: , I'm Angkasa</strong></summary>
-Hidup yang tidak dipertaruhkan, tidak akan pernah dimenangkan. </br>
--Sutan Syahrir-
+As a third-semester Data Science student with a focus on machine learning, data analysis, and a strong interest in Internet of Things (IoT), I believe technology is the key to driving innovative solutions that foster positive change.
+I am passionate about exploring data to uncover insights, building predictive models, and integrating IoT to create technology-driven solutions for real-world challenges. With a continuous drive for learning and collaboration, I aim to contribute to the sustainable growth of the technology sector.
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
