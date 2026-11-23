@@ -1,6 +1,6 @@
 <!-- Header Dinamis -->
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Bintang+Gilangkasa!(Angkasa);Data+Science+Student+%40+UIN+Salatiga;Aspiring+Data+Engineer+%26+ML+Developer;Frontend+Developer+(React+%26+Tailwind+CSS)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&vCenter=true&width=650&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Bintang+Gilangkasa!(Angkasa);Data+Science+Student+%40+UIN+Salatiga;Aspiring+Data+Engineer+%26+ML+Developer;Frontend+Developer" alt="Typing SVG" />
 </div>
 
 ### 🚀 About Me
