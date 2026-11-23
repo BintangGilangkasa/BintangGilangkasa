@@ -9,8 +9,7 @@ Final-year **Data Science** student at **Universitas Islam Negeri Salatiga** wit
 
 - 🔭 **Current Focus:** Building end-to-end data pipelines, predictive modeling, and responsive web applications.
 - 🌱 **Exploring:** Scalable data architectures, spatial & tabular analytics, and modern backend APIs.
-- 💡 **Interests:** Data Analysis, Machine Learning, Internet of Things (IoT), and clean UI/UX design.
-- ⚡ **Fun Fact:** Always up for a good Sudoku puzzle or capturing moments through a mirrorless lens.
+- 💡 **Interests:** Data Analysis, Machine Learning, Data Engineering, Web Development, and clean UI/UX design.
 
 ---
 
@@ -18,7 +17,7 @@ Final-year **Data Science** student at **Universitas Islam Negeri Salatiga** wit
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,fastapi,react,tailwind,redux,docker,git,vscode&perline=5" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,fastapi,react,tailwind,mongodb,redux,docker,git,vscode&perline=5" alt="Tech Stack" />
   </a>
 </p>
 
